@@ -1,0 +1,55 @@
+body{
+    background-image: url(Imagens/fundo.png);
+}
+hr{
+    margin-left: 500px;
+    margin-right: 500px;
+}
+h2 {
+    color: rgb(0, 0, 0);
+    margin-left: 500px;
+    margin-top: 25px;
+}
+.logo{
+    display: flex;
+    position: relative;
+    left:500px;
+    width: 30%;
+    height : 100%;
+    margin-top: -35px;
+}
+.capa{
+    text-align: center;
+    margin-top:15px;
+}
+.botao{
+    display: flex;
+    /* display: inline-block; */
+    text-decoration: none;
+    margin-left: 1200px;
+    margin-top: 50px;
+}
+p{
+    margin-left: 500px;
+    margin-right: 500px;
+    font-size: 17px;
+}
+h4{
+    text-align: center;
+    margin-top: 50px;
+
+}
+.quemm{
+    margin-left: 10px;
+}
+.cont{
+    margin-left: 10px;
+}
+.fundo{
+    margin-top: 53px;
+}
+h5{
+    display: flex;
+    margin-top:10px;
+    margin-left: 1230px;
+}

@@ -1,0 +1,56 @@
+body{
+    background-image: url(Imagens/fundo2.png);
+}
+.logo{
+    display: flex;
+    position: relative;
+    width: 30%;
+    height : 100%;
+    margin-top: -35px;
+    margin-left: 500px;
+}
+
+.botao{
+    display: flex;
+    text-decoration: none;
+    margin-left: 1200px;
+    margin-top: 50px;
+}
+h2{
+    margin-left: 500px;
+    margin-top: 50px;
+}
+p{
+    margin-left: 500px;
+    margin-right: 500px ;
+    font-size: 17px;
+}
+.motivoss{
+    margin-left: 525px;
+    font-size: 17px;
+}
+hr{
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.objetivos{
+    margin-top: 30px;
+}
+h4{
+    text-align: center;
+    margin-top: 50px;
+}
+.quemm{
+    margin-left: 10px;
+}
+.cont{
+    margin-left: 10px;
+}
+.fundo{
+    margin-top: 185px;
+}
+h5{
+    display: flex;
+    margin-top:10px;
+    margin-left: 1230px;
+}
