@@ -62,7 +62,7 @@
                 const descricao = document.getElementById('descricao').value;
 
                 try {
-                    const response = await fetch('http://54.166.41.166/api/contatos', {
+                    const response = await fetch('http://3.93.145.201/api/contatos', {
                         method: 'POST',
                         headers: {
                             'Content-Type': 'application/json'
@@ -84,7 +84,7 @@
             // Função para carregar e exibir a lista de contatos
             async function loadContacts() {
                 try {
-                    const response = await fetch('http://54.166.41.166/api/contatos');
+                    const response = await fetch('http://3.93.145.201/api/contatos');
                     const contacts = await response.json();
 
                     const contactTable = document.getElementById('contactTable');
